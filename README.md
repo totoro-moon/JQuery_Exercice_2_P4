@@ -1,5 +1,6 @@
-# JQuery_Exercice_2_P4
 #JQUERY_EXERCICES PARTIE 4
+# JQuery_Exercice_2_P4
+
 #Exercice 1
 Créer un jeu de shifumi.
 
